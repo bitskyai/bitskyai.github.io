@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[1],{wztn:function(e,n,t){"use strict";var o=t("tAuX");Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;o(t("q1tI"));var i=t("MuoO"),u=t("Y2fQ"),r=function(e){var n=e.children;return(0,u.setLocale)("en-US"),n},a=(0,i.connect)(function(e){var n=e.global;return{initedApp:n.initedApp}})(r);n.default=a}}]);
