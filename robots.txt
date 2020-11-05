@@ -1,0 +1,4 @@
+# We love crawlers, Welcome!
+
+Sitemap: https://www.bitsky.ai/sitemap.xml
+User-agent: *
